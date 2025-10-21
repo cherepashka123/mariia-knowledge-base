@@ -1,0 +1,181 @@
+{
+  "personal_info": {
+    "name": "Mariia Cherep",
+    "nickname": "Masha",
+    "full_name": "Mariia Cherep (also known as Masha)",
+    "location": "New York, NY",
+    "phone": "(203) 571-7354",
+    "email": "mc9271@nyu.edu",
+    "origin": "Originally from Kyiv, Ukraine",
+    "background": "Moved to the United States for boarding school in New Jersey during my junior year of high school. Having lived in Ukraine for most of my life, I relocated entirely to the US due to both my educational pursuits and the war in Ukraine (since 2022). My brother and mother moved shortly after as well, while my father remains in Ukraine."
+  },
+  "education": {
+    "current": {
+      "institution": "New York University",
+      "location": "New York, NY",
+      "degree": "Bachelor of Arts in Psychology",
+      "minors": ["Business", "Social Entrepreneurship", "Philosophy"],
+      "graduation": "Expected May 2026",
+      "gpa": "3.85/4.00",
+      "relevant_coursework": [
+        "Tech Product Management",
+        "Digital Business Strategy",
+        "Statistics with Python",
+        "Generative AI in Business",
+        "Social Entrepreneurship"
+      ],
+      "activities_clubs": [
+        "Luxury & Retail Association",
+        "Stern Founders Challenge Society",
+        "Business-Technology-Entrepreneurship Pitch Finalist"
+      ]
+    },
+    "high_school": {
+      "institution": "Blair Academy",
+      "location": "Blairstown, NJ",
+      "degree": "High School Diploma",
+      "dates": "August 2020 – May 2022",
+      "gpa": "4.00/4.00",
+      "coursework": ["Microeconomics", "Calculus", "Psychology", "French"]
+    }
+  },
+  "professional_experience": {
+    "dressx": {
+      "company": "DRESSX",
+      "location": "Los Angeles, CA",
+      "positions": [
+        {
+          "title": "Sustainability & Reporting Analyst",
+          "dates": "May 2025 – September 2025",
+          "achievements": [
+            "Contributed to Digital Fashion Trends Report for Meta, analyzing 30+ brand collaborations and consumer behaviors shaping avatar economies",
+            "Developed DRESSX Sustainability Report, analyzing 900+ digital garments and AI's environmental footprint to demonstrate reduced waste, chemicals, and emissions",
+            "Conducted comprehensive analysis of Roblox, Snapchat, Zepeto, and Bitmoji platforms, identifying key fashion trends and brand crossovers driving digital self-expression"
+          ]
+        },
+        {
+          "title": "Marketing & Strategy Intern",
+          "dates": "May 2024 – January 2025",
+          "achievements": [
+            "Led influencer outreach and partnerships for the Roblox x Charles & Keith campaign, coordinating with 100+ creators across TikTok and YouTube",
+            "Facilitated strategic initiatives to strengthen DRESSX's presence in the Bitmoji Fashion Marketplace, engaging Snapchat's 250M+ daily Bitmoji users",
+            "Executed targeted influencer activations, driving engagement and contributing to increased user adoption of the DRESSX Generative AI styling tool"
+          ]
+        }
+      ]
+    },
+    "devolatech": {
+      "company": "DevolaTech",
+      "location": "New York, NY",
+      "position": "Growth Analyst & Sales Associate",
+      "dates": "November 2023 – September 2024",
+      "achievements": [
+        "Analyzed market trends and industry dynamics, identifying B2B growth opportunities that expanded IT outsourcing and outstaffing solutions",
+        "Initiated and executed personalized email and LinkedIn outreach campaigns, generating 500+ high-quality leads and 200+ client interactions",
+        "Leveraged targeted prospecting strategies to expand into 3+ new markets and strengthen the client pipeline, accelerating lead qualification and conversion rates"
+      ]
+    },
+    "dragon_capital": {
+      "company": "Dragon Capital",
+      "location": "Kyiv, Ukraine",
+      "position": "Investment Banking Intern",
+      "dates": "June 2021 – August 2021",
+      "achievements": [
+        "Conducted research on Green Bonds, Eurobonds, and M&A transactions, including comprehensive analysis of healthcare sector reforms in Ukraine",
+        "Executed in-depth P&L and financial analysis for Fozzy Group and Ukrenergo, evaluating profitability and cash-flow prior to the 2022 invasion",
+        "Assisted in creating 5+ roadshow and client presentations (VENBEST, Ukrainian Railways), enhancing investor communication for major transactions"
+      ]
+    }
+  },
+  "leadership_extracurricular": {
+    "rise_barclays": {
+      "organization": "Rise, created by Barclays",
+      "location": "New York, NY",
+      "role": "Accelerator Participant",
+      "dates": "September 2024 – Present",
+      "achievements": [
+        "Selected for a competitive fintech accelerator program, refining MVP and product-market fit for a consumer retail payments startup through intensive workshops",
+        "Performed comprehensive competitive analysis through client-facing surveys with 300+ users and 30+ retailers, uncovering significant value gaps in physical retail payments",
+        "Leveraged design thinking methodologies to optimize user journey and delivered a finalist pitch at NYU Stern's startup showcase with 100+ attendees"
+      ]
+    },
+    "threadress": {
+      "organization": "Threadress",
+      "location": "New York, NY",
+      "role": "Co-Founder",
+      "dates": "March 2025-Present",
+      "description": "Built an innovative platform connecting real-time boutique inventory to shoppers with reserve and prepay pickup options - seamlessly bridging online search and in-store retail experiences",
+      "achievements": [
+        "Launched a functional prototype (threadress.it.com) featuring real-time boutique inventory search, natural-language queries, and advanced vector search capabilities",
+        "Led comprehensive customer discovery with 50+ NYC boutiques, uncovering system preferences (Square vs Shopify) to guide strategic integration planning"
+      ],
+      "story": "Threadress emerged from our personal struggle to find specific items, as we would spend hours searching helplessly only to discover nothing remotely similar to what we were looking for. Despite recent developments, search engines like Google still prioritize sponsored brands and items over genuinely tailored fashion recommendations based on user intent. We're committed to changing this paradigm. With the emergence of powerful AI tools, we successfully built our first MVP and are now focused on scaling our impact."
+    },
+    "naked_confidence": {
+      "organization": "Naked Confidence",
+      "location": "Kyiv, Ukraine",
+      "role": "Founder",
+      "dates": "January 2021 – 2022",
+      "achievements": [
+        "Founded a unisex perfume brand, crafting the debut scent in collaboration with 5 industry experts at Ol.factory and defining its unique brand identity",
+        "Implemented comprehensive market research with 200+ consumers, shaping the brand mission and crafting an olfactory pyramid based on detailed customer feedback"
+      ]
+    }
+  },
+  "skills_interests": {
+    "languages": [
+      { "language": "Ukrainian", "level": "Native" },
+      { "language": "Russian", "level": "Native" },
+      { "language": "French", "level": "Intermediate" }
+    ],
+    "technical_skills": [
+      "Microsoft Office Suite",
+      "Figma",
+      "SPSS",
+      "Python",
+      "Git/GitHub",
+      "Canva",
+      "Jira",
+      "Adobe Photoshop",
+      "Market Research",
+      "Google Analytics",
+      "Node.js"
+    ],
+    "interests": [
+      "Matcha Culture and Exploration",
+      "DJing and Music Production",
+      "Fashion Technology",
+      "Science Fiction Literature",
+      "Interior Design",
+      "UI/UX Design",
+      "Electronic Dance Music",
+      "Travel and Cultural Exploration",
+      "Philosophy of Artificial Intelligence",
+      "Creative Coding"
+    ]
+  },
+  "personal_story": {
+    "entrepreneurial_mindset": "I possess a strong entrepreneurial spirit and passion for creating innovative solutions through creativity and imagination. My journey began in Ukraine when I developed my own perfume brand, which marked the beginning of my entrepreneurial path.",
+    "family_background": {
+      "mother": "Previously worked at Bvlgari, which provided invaluable insights into the intricate world of fashion and jewelry, followed by experience in M&A that opened my eyes to how companies merge, grow, and create value",
+      "father": "Has been in the construction industry for most of his career, which likely influenced my passion for building and creating tangible solutions"
+    },
+    "threadress_origin": "My co-founder Clara and I have been discussing building something together since freshman year, but it wasn't until junior year that we actually began development, after establishing the necessary connections and securing the right resources.",
+    "dressx_impact": "My two consecutive summers at DRESSX provided invaluable experience and exposure to how established fashion technology companies operate in these dynamic environments, learning directly from industry professionals.",
+    "education_impact": "I'm pursuing a diverse range of courses including product management, AI integration in business, digital business strategy, philosophy of AI, psychology, data analytics with SPSS and Python, economics, and many other relevant subjects that have significantly contributed to my development.",
+    "accelerator": "Clara and I were accepted into the Rise accelerator program created by Barclays, which provided valuable insights into the fintech perspectives essential for building a successful startup."
+  },
+  "current_projects": {
+    "threadress": {
+      "status": "Active Development",
+      "description": "Innovative platform connecting real-time boutique inventory to shoppers",
+      "website": "threadress.it.com",
+      "cofounder": "Clara"
+    }
+  },
+  "contact_info": {
+    "email": "mc9271@nyu.edu",
+    "phone": "(203) 571-7354",
+    "location": "New York, NY"
+  }
+}
