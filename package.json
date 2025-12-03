@@ -1,0 +1,16 @@
+{
+  "name": "mariia-knowledge-base",
+  "version": "1.0.0",
+  "description": "Knowledge base API for Mariia Cherep",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/node": "^3.0.7"
+  }
+}
